@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am fuerteven on github.
+  * I am fuerteven (https://keybase.io/fuerteven) on keybase.
+  * I have a public key ASBXorKFXAPisqvj9S9HIF8Bgi8q65E4MVe8d9GDpwtRigo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012057a2b2855c03e2b2abe3f52f47205f01822f2aeb91383157bc77d183a70b518a0a",
+      "host": "keybase.io",
+      "kid": "012057a2b2855c03e2b2abe3f52f47205f01822f2aeb91383157bc77d183a70b518a0a",
+      "uid": "4d87af34d5c7fa38fe08fdc9b8a93019",
+      "username": "fuerteven"
+    },
+    "merkle_root": {
+      "ctime": 1568384061,
+      "hash": "b15bd8f68aec3080492a0fd212e036a42b53e17d443d2b906833cf42390a5f38a7223bd5864f80da5041b6ded626fbbdcd4994218f8fcb3f8941c9c90f4a3068",
+      "hash_meta": "9552cc807d819608b7bab4913675c11cc3de55cf010a383383c84417507ea90b",
+      "seqno": 7162811
+    },
+    "service": {
+      "entropy": "g4SfplcgB0OdurPG6vkeZ6A7",
+      "name": "github",
+      "username": "fuerteven"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568384084,
+  "expire_in": 504576000,
+  "prev": "9436d983a64812e49038be77b46551f322b0f99100d50accc69577e44558f369",
+  "seqno": 11,
+  "tag": "signature"
+}
+```
+
+with the key [ASBXorKFXAPisqvj9S9HIF8Bgi8q65E4MVe8d9GDpwtRigo](https://keybase.io/fuerteven), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgV6KyhVwD4rKr4/UvRyBfAYIvKuuRODFXvHfRg6cLUYoKp3BheWxvYWTESpcCC8QglDbZg6ZIEuSQOL53tGVR8yKw+ZEA1QrMxpV35EVY82nEIPgM9uvtRAHIIaLRazXb1/ssPHsYAUXoRMLKUUJmtgaZAgHCo3NpZ8RA67EeYtXlhTIXExLj0sJg1JSyn4aag+eaXzwv5RFm4ZOzO3D4bGUvhvsQro/MooY7X0M/ymf8+1xDNq4KfdqlCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHaoJ+p1M9ppmUlgo0F31mEiL5ZGHvDvT07bwjzWszRSo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/fuerteven
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id fuerteven
+```
